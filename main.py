@@ -1,5 +1,4 @@
 # Put your function here
-def check_winner(board):
 def ticTacToe(board):
  
     for i in range(3):
